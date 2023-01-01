@@ -1,4 +1,4 @@
-MantaRay - "An Approach to Compressing Files"
+#MantaRay - "An Approach to Compressing Files"
 
 MantaRay will save files as .ray files and will use the idea that you can use a fraction to store a string decimals that will be decoded into the file.
 
