@@ -6,13 +6,13 @@ For Example, say our data, in decimal form, is "29296875". You can store that as
 
 ## How to Use It
 
-To use MantaRay, open a Terminal* and type this command to check if you have java installed.
+To use MantaRay, open a Terminal* and type this command to check if you have Java installed.
 ```bash
 java --version
 ```
-If you do not, the link to the download is right [here](https://www.java.com/en/download/).
+If you do not have Java, the link to the download it is right [here](https://www.java.com/en/download/).
 
-Once you have java installed, open another Terminal* in the location of the mantaRay.jar file (or cd to it in the same Terminal*). 
+Once you have Java installed, open another Terminal* in the location of the mantaRay.jar file (or cd to it in the same Terminal*). 
 
 Then to run the application, type the command:
 ```bash
@@ -22,8 +22,7 @@ Once the application is finished being ran, you can either close the Terminal*'s
 ```bash
 exit
 ```
-
-*or Command Prompt
+<br>*or Command Prompt
 
 ## Versions
 0.1: The "Barely Functional" Update - this layed out the ui for how the CLI tool would work. 
