@@ -7,4 +7,5 @@ Then, once it reaches it's destination, it can be undone by removing the decimal
 
 # Versions
 0.1: The "Barely Functional" Update - this layed out the ui for how the CLI tool would work.
+
 => 0.1.1: laying groundwork for the algorithm's input and output. 
