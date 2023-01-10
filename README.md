@@ -25,5 +25,6 @@ exit
 <br>*or Command Prompt
 
 ## Versions
-0.1: The "Barely Functional" Update - this layed out the ui for how the CLI tool would work. 
->0.1.1: laying groundwork for the algorithm's input and output. 
+0.1: The "Barely Functional" Update 
+>0.1.1: this layed out the ui for how the CLI tool would work.
+>0.1.2: laying groundwork for the algorithm's input and output. 

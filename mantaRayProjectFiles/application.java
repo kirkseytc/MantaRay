@@ -11,7 +11,7 @@ public class application {
         String filePath2;
         String name;
 
-        System.out.println("Welcome to the Ray Compression Tool [CLI Edition]\nVer 0.1.1 : The \"Barely Functional\" Update | Tristan Kirksey\n");
+        System.out.println("Welcome to the Ray Compression Tool [CLI Edition]\nVer 0.1.2 : The \"Barely Functional\" Update | Tristan Kirksey\n");
 
         while(contin){
 
