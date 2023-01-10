@@ -6,22 +6,25 @@ For Example, say our data, in decimal form, is "29296875". You can store that as
 
 ## How to Use It
 
-To use MantaRay, open a Terminal* and type the command:
+To use MantaRay, open a Terminal* and type this command to check if you have java installed.
 ```bash
 java --version
 ```
-to check if you have java installed. if you do not, the link to the download is right [here](https://www.java.com/en/download/).
-Once you have java installed, open another Terminal* (or cd) in the location of the mantaRay.jar file. 
+If you do not, the link to the download is right [here](https://www.java.com/en/download/).
+
+Once you have java installed, open another Terminal* in the location of the mantaRay.jar file (or cd to it in the same Terminal*). 
+
 Then to run the application, type the command:
 ```bash
 java -jar mantaRay.jar
 ```
-Once the application is finished being ran, you can either close the Terminal* window or type the command:
+Once the application is finished being ran, you can either close the Terminal*'s window or type the command:
 ```bash
 exit
 ```
+
 *or Command Prompt
 
 ## Versions
->0.1: The "Barely Functional" Update - this layed out the ui for how the CLI tool would work. 
-> >0.1.1: laying groundwork for the algorithm's input and output. 
+0.1: The "Barely Functional" Update - this layed out the ui for how the CLI tool would work. 
+>0.1.1: laying groundwork for the algorithm's input and output. 
